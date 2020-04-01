@@ -254,6 +254,21 @@
         </dependency>
 
 
+        <dependency>
+            <groupId>local-hutool</groupId>
+            <artifactId>test</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/src/main/resources/lib/hutool-all-4.5.0.jar</systemPath>
+        </dependency>
+
+        <dependency>
+            <groupId>local-sdk</groupId>
+            <artifactId>test</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/src/main/resources/lib/invoice-sdk-1.0.6.jar</systemPath>
+        </dependency>
 
 
 
